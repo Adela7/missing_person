@@ -1,0 +1,15 @@
+{
+  "name": "missing_person",
+  "version": "1.0.0",
+  "description": "Mission person",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Adel",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
